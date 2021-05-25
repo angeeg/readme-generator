@@ -17,7 +17,7 @@ const questions = [
     {
         type: "input",
         name: "installation",
-        message: "Please list the steps to install your application."
+        message: "How does the user install your application?"
     },
     {
         type: "input",
@@ -26,22 +26,28 @@ const questions = [
     },
     {
         type: "input",
+        name: "contributors",
+        message: "Enter the project contributor's github username."
+    },
+    {
+        type: "input",
         name: "test",
-        message: "Please explain how to test your application,"
+        message: "Explain how to test your application."
     },
     {
         type: "list",
         name: "license",
-        message: "Please enter your license.",
+        message: "Select which lisence you have for your application.",
         choices: ["BSD_3", "GPL_3.0", "None"]
     },
     {
         type: "input",
         name: "github",
-        message: "Please enter your github username."
+        message: "Enter your github username."
     }
  
 ];
+
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
