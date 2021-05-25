@@ -6,15 +6,15 @@
 * [Test](#test)
 * [License](#license)
 ## Description 
-Helps the user create a README file for their project. 
+Helps the user create a README file for their project.
 ## Installation 
-Clone the git repo and open in code editor on their machine. 
+Clone the github repo from the github link below.
 ## Usage 
-Once opened on a code editor run the server using 
+Open the cloned repo in a code editor on your machine, then start the server and run 'npm start' in your terminal.
 ## Credit
-This project was made possible thanks to: https://github.com/.
+This project was created by github user .
 ## Test 
-Run npm test in the command line 
+If you need to test the application tun 'npm test' in your terminal.
 ## License 
 BSD_3
 

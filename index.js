@@ -26,7 +26,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "contributors",
+        name: "contribution",
         message: "Enter the project contributor's github username."
     },
     {

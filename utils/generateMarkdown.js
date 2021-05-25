@@ -47,7 +47,7 @@ ${data.installation}
 ## Usage 
 ${data.usage}
 ## Credit
-This project was created by github user ${[data.contribution]}.
+This project was created by github user https://github.com/${[data.contribution]}.
 ## Test 
 ${data.test}
 ${renderLicenseSection(data.license)}
