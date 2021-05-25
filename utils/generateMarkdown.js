@@ -47,7 +47,7 @@ ${data.installation}
 ## Usage 
 ${data.usage}
 ## Credit
-This project was made possible thanks to: https://github.com/${[data.contribution]}.
+This project was created by github user ${[data.contribution]}.
 ## Test 
 ${data.test}
 ${renderLicenseSection(data.license)}
