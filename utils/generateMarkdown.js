@@ -38,6 +38,7 @@ function generateMarkdown(data) {
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credit](#credit)
+* [Contribute](#contribute)
 * [Test](#test)
 ${renderLicenseLink(data.license)}
 ## Description 
@@ -55,6 +56,8 @@ ${data.test}
 ${renderLicenseSection(data.license)}
 
 ${renderLicenseBadge(data.license)}
+## Contribute 
+If you wish to contribute to this application please send a pull request. 
 ## Questions
 If you have any questions please contact https://github.com/${[data.github]}.
 `;
