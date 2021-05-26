@@ -1,4 +1,4 @@
-# README Generator 
+# README Generator
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -6,15 +6,15 @@
 * [Test](#test)
 * [License](#license)
 ## Description 
-Helps the user create a README file for their project.
+Create a README.md file for your project just using the command line. 
 ## Installation 
-Clone the github repo from the github link below.
+Follow the link below and clone the repository named "README Generator" onto your machine. 
 ## Usage 
-Open the cloned repo in a code editor on your machine, then start the server and run 'npm start' in your terminal.
+Open the cloned repo in a code editor and then open the terminal. Start the server by running 'npm start'. Then, follow the prompts and create your file. 
 ## Credit
-This project was created by github user .
+This project was created by github user https://github.com/angeeg.
 ## Test 
-If you need to test the application tun 'npm test' in your terminal.
+If you need to test the application run 'npm test' in the command line.
 ## License 
 BSD_3
 
