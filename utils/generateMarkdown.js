@@ -54,6 +54,7 @@ ${renderLicenseSection(data.license)}
 
 ${renderLicenseBadge(data.license)}
 ## Questions
+[Watch walkhrough video here.](https://drive.google.com/file/d/1cTtftbQY670S8pycVx840Uy32Ov8JScQ/view)
 If you have any questions please contact https://github.com/${[data.github]}.
 `;
 }

@@ -1,23 +1,24 @@
-# README Generator
+# hhi
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
+* [Credit](#credit)
 * [Test](#test)
 * [License](#license)
 ## Description 
-Create a README.md file for your project just using the command line. 
+hi
 ## Installation 
-Follow the link below and clone the repository named "README Generator" onto your machine. 
+hi
 ## Usage 
-Open the cloned repo in a code editor and then open the terminal. Start the server by running 'npm start'. Then, follow the prompts and create your file. 
+ho
 ## Credit
-This project was created by github user https://github.com/angeeg.
+This project was created by github user https://github.com/gs.
 ## Test 
-If you need to test the application run 'npm test' in the command line.
+ig
 ## License 
 BSD_3
 
 ![GitHub license](https://img.shields.io/badge/license-BSD_3-blue.svg)
 ## Questions
+[Watch walkhrough video here.](https://drive.google.com/file/d/1cTtftbQY670S8pycVx840Uy32Ov8JScQ/view)
 If you have any questions please contact https://github.com/angeeg.
