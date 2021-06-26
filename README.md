@@ -17,6 +17,12 @@ The user is able to create a README file for their project using only the comman
 Once you run 'npm start' in the command line, you will be prompted with questions to create your README file. 
 
 [Watch walkhrough video here.](https://drive.google.com/file/d/13-BrYNio6B6UVHdaRzm-9FXNhZ-otjB2/view)
+
+<img src="generatorstarted.png"/>
+<img src="generatorcomplete.png"/>
+<img src="generatorend.png"/>
+
+
 ### Technologies Used:
 * Node.js 
 * Javascript
